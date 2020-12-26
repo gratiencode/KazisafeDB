@@ -1223,7 +1223,8 @@ engager_id</ColNames>
       <DefaultExpression>&apos;siege social&apos;</DefaultExpression>
     </column>
     <index id="365" parent="282" name="username">
-      <ColNames>username</ColNames>
+      <ColNames>username
+entreprise_id</ColNames>
       <Unique>1</Unique>
       <Type>btree</Type>
     </index>
@@ -1241,7 +1242,8 @@ engager_id</ColNames>
       <Primary>1</Primary>
     </key>
     <key id="369" parent="282" name="username">
-      <ColNames>username</ColNames>
+      <ColNames>username
+entreprise_id</ColNames>
       <UnderlyingIndexName>username</UnderlyingIndexName>
     </key>
     <foreign-key id="370" parent="282" name="engager_ibfk_1">
@@ -1289,7 +1291,7 @@ engager_id</ColNames>
     </column>
     <column id="378" parent="283" name="website">
       <Position>7</Position>
-      <DataType>text|0s</DataType>
+      <DataType>varchar(128)|0s</DataType>
     </column>
     <column id="379" parent="283" name="email">
       <Position>8</Position>
