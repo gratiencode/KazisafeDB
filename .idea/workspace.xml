@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f4bba5a-db1c-4ea3-90a9-3023610b7d8e" name="Default Changelist" comment="Started point commit">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/267c5bd3-1e77-4655-824a-2321445f0175.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/267c5bd3-1e77-4655-824a-2321445f0175.xml" afterDir="false" />
+    <list default="true" id="3f4bba5a-db1c-4ea3-90a9-3023610b7d8e" name="Default Changelist" comment="Started update to unique(engager,entreprise) commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +29,21 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started point commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started point commit" />
+    <MESSAGE value="Started update to unique(engager,entreprise) commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started update to unique(engager,entreprise) commit" />
   </component>
 </project>
